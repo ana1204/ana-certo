@@ -1,5 +1,15 @@
  body{
+background-color: #1ccebf;
+ color: white
+ 
+}
+.cabecalho{ background-color: black;
+display: flex;
+justify-content: space-around;
+}
 
- background-color: #21b1c4;
+.cabecalho-imagem{
 
- }
+    
+
+}
